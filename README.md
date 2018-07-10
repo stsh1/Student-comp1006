@@ -1,1 +1,1 @@
-# Student-comp1006
+# students
